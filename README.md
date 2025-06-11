@@ -22,14 +22,6 @@ ChampSim is highly configurable and provides support for a wide range of benchma
 ChampSim also includes support for simulating different processor architectures, such as ARM and x86, and different cache organizations, such as unified caches and split caches.
 
 ChampSim has been used in several research studies to evaluate the performance and energy efficiency of different cache designs and replacement policies. Its open-source nature allows researchers to modify and extend the simulator to support new features and use cases.
-## Authors
-
-- [@OptimalKnight](https://www.github.com/OptimalKnight)
-- [@adatiaaman](https://www.github.com/adatiaaman)
-- [@Amank2854](https://www.github.com/Amank2854)
-- [@subham-71](https://www.github.com/subham-71)
-- [@Ozbridge](https://www.github.com/Ozbridge)
-
 
 ## Run Locally
 
